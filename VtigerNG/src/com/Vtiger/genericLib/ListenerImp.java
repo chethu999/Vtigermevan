@@ -20,7 +20,6 @@ public class ListenerImp implements ITestListener
 	public void onTestFailure(ITestResult result) 
 	{
 		String methodName=result.getMethod().getMethodName();
-		ITestListener.super.onTestFailure(result);
 		Date d= new Date();
 		int day=d.getDay();
 		String[] dt=d.toString().split(" ");
