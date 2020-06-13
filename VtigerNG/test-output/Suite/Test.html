@@ -55,11 +55,11 @@ function toggleAllBoxes() {
 <body>
 <h2 align='center'>Test</h2><table border='1' align="center">
 <tr>
-<td>Tests passed/Failed/Skipped:</td><td>0/1/0</td>
+<td>Tests passed/Failed/Skipped:</td><td>10/0/0</td>
 </tr><tr>
-<td>Started on:</td><td>Fri Jun 05 16:35:58 IST 2020</td>
+<td>Started on:</td><td>Sat Jun 13 09:46:56 IST 2020</td>
 </tr>
-<tr><td>Total time:</td><td>17 seconds (17794 ms)</td>
+<tr><td>Total time:</td><td>311 seconds (311171 ms)</td>
 </tr><tr>
 <td>Included groups:</td><td></td>
 </tr><tr>
@@ -67,49 +67,241 @@ function toggleAllBoxes() {
 </tr>
 </table><p/>
 <small><i>(Hover the method name to see the test class name)</i></small><p/>
-<table width='100%' border='1' class='invocation-failed'>
-<tr><td colspan='4' align='center'><b>FAILED TESTS</b></td></tr>
+<table width='100%' border='1' class='invocation-passed'>
+<tr><td colspan='4' align='center'><b>PASSED TESTS</b></td></tr>
 <tr><td><b>Test method</b></td>
 <td width="30%"><b>Exception</b></td>
 <td width="10%"><b>Time (seconds)</b></td>
 <td><b>Instance</b></td>
 </tr>
 <tr>
-<td title='com.Vtiger.testScripts.CreateOrganistion.createorganationTest()'><b>createorganationTest</b><br>Test class: com.Vtiger.testScripts.CreateOrganistion</td>
-<td><div><pre>org.testng.TestNGException: 
-Data Provider public java.lang.Object[][] com.Vtiger.testScripts.CreateOrganistion.giveData() returned a null value
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
-... Removed 24 stack frames</pre></div><a href='#' onClick='toggleBox("stack-trace615853374", this, "Click to show all stack frames", "Click to hide stack frames")'>Click to show all stack frames</a>
-<div class='stack-trace' id='stack-trace615853374'><pre>org.testng.TestNGException: 
-Data Provider public java.lang.Object[][] com.Vtiger.testScripts.CreateOrganistion.giveData() returned a null value
-	at org.testng.internal.MethodInvocationHelper.invokeDataProvider(MethodInvocationHelper.java:150)
-	at org.testng.internal.Parameters.handleParameters(Parameters.java:797)
-	at org.testng.internal.Parameters.handleParameters(Parameters.java:740)
-	at org.testng.internal.ParameterHandler.handleParameters(ParameterHandler.java:59)
-	at org.testng.internal.ParameterHandler.createParameters(ParameterHandler.java:38)
-	at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:788)
-	at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
-	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-	at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
-	at org.testng.TestRunner.privateRun(TestRunner.java:767)
-	at org.testng.TestRunner.run(TestRunner.java:588)
-	at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-	at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1214)
-	at org.testng.TestNG.runSuitesLocally(TestNG.java:1136)
-	at org.testng.TestNG.runSuites(TestNG.java:1066)
-	at org.testng.TestNG.run(TestNG.java:1034)
-	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-</pre></div></td>
-<td>0</td>
-<td>com.Vtiger.testScripts.CreateOrganistion@43301423</td></tr>
+<td title='com.Vtiger.testScripts.CreateContactsTest.createContTest()'><b>createContTest</b><br>Test class: com.Vtiger.testScripts.CreateContactsTest<br>Parameters: F111, sham, bvc, sham@mail.com, 756641332<br/>
+<a href="#Output-1977508673" onClick='toggleBox("Output-1977508673", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1977508673" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1977508673">
+clicked on Contact link<br/>
+clicked on create contact link<br/>
+entered first name<br/>
+entered last name<br/>
+entered email<br/>
+entered mobile number<br/>
+clicked on select Organization button<br/>
+switched to childe browser<br/>
+selected Organization name<br/>
+switched back to parent browser<br/>
+clicked on save button<br/>
+contact created successfully<br/>
+Entered on contacts link-->home page displayed<br/>
+</div>
+</td>
+<td></td>
+<td>16</td>
+<td>com.Vtiger.testScripts.CreateContactsTest@6ac13091</td></tr>
+<tr>
+<td title='com.Vtiger.testScripts.CreateInvoiceTest.createInvoiceTest()'><b>createInvoiceTest</b><br>Test class: com.Vtiger.testScripts.CreateInvoiceTest<br>Parameters: subject01, Chethan poojary, bvc, BillinhAddress01, ShippingAddress01, laptop, 1<br/>
+<a href="#Output-1995627225" onClick='toggleBox("Output-1995627225", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1995627225" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1995627225">
+mouse hovered on more link<br/>
+clicked on Invoice Link<br/>
+clicked on create invoice link<br/>
+subject01 <-- entered <br/>
+clicked on contact name<br/>
+switched to child browser<br/>
+switched to parent browser<br/>
+selected contact name<br/>
+clicked on organization name<br/>
+switched to child browser<br/>
+switched to parent browser<br/>
+selected org name<br/>
+entered billing address<br/>
+entered shipping address<br/>
+clicked on select item<br/>
+switched to child browser<br/>
+switched to parent browser<br/>
+selected item -->laptop<br/>
+selected qty -->1<br/>
+clicked on save button<br/>
+</div>
+</td>
+<td></td>
+<td>21</td>
+<td>com.Vtiger.testScripts.CreateInvoiceTest@161479c6</td></tr>
+<tr>
+<td title='com.Vtiger.testScripts.CreateLeadsTest.createLeadTest()'><b>createLeadTest</b><br>Test class: com.Vtiger.testScripts.CreateLeadsTest<br>Parameters: FN01, LN01, cmp01, Existing Customer, Banking, 550000, 10<br/>
+<a href="#Output-1195615010" onClick='toggleBox("Output-1195615010", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1195615010" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1195615010">
+clicked on leads link<br/>
+clicked on create leads link<br/>
+entered firstname into TF<br/>
+entered lastname into TF<br/>
+entered comapny name<br/>
+selected lead source<br/>
+selected industry type<br/>
+entered annualrevenue into TF<br/>
+entered noofemployees into TF<br/>
+clicked on save button<br/>
+</div>
+</td>
+<td></td>
+<td>13</td>
+<td>com.Vtiger.testScripts.CreateLeadsTest@48fa0f47</td></tr>
+<tr>
+<td title='com.Vtiger.testScripts.CreateOpportunitiesTest.createOpportuninyTest()'><b>createOpportuninyTest</b><br>Test class: com.Vtiger.testScripts.CreateOpportunitiesTest<br>Parameters: opprt01, bvc, Existing Business, Cold Call, Prospecting, 45<br/>
+<a href="#Output-1865289764" onClick='toggleBox("Output-1865289764", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1865289764" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1865289764">
+Cliked on Opportunites link<br/>
+cliked on create opportunity link<br/>
+entered opportunity name<br/>
+clicked on Org link<br/>
+switched to child browser<br/>
+switched to parent browser<br/>
+selected Organization name<br/>
+Existing Business selected from sigle Select drop down<br/>
+clicked the saved button<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>com.Vtiger.testScripts.CreateOpportunitiesTest@5e316c74</td></tr>
+<tr>
+<td title='com.Vtiger.testScripts.CreateOrganizationTest.createOrgTest()'><b>createOrgTest</b><br>Test class: com.Vtiger.testScripts.CreateOrganizationTest<br>Parameters: Org_12557, www.org_125.com, 60, Banking, Press, User, 8524163480, org_125@mail.com, 10000, Bangaluru<br/>
+<a href="#Output-630122462" onClick='toggleBox("Output-630122462", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-630122462" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-630122462">
+cliked on organization link<br/>
+clicked on create organization link<br/>
+organization name is entered<br/>
+Organization website entered<br/>
+Entered Employees<br/>
+clicked on save button<br/>
+organization created successfully<br/>
+clicked on organization link link->home page displayed<br/>
+</div>
+</td>
+<td></td>
+<td>16</td>
+<td>com.Vtiger.testScripts.CreateOrganizationTest@7ee955a8</td></tr>
+<tr>
+<td title='com.Vtiger.testScripts.CreateProductsTest.createProductTest()'><b>createProductTest</b><br>Test class: com.Vtiger.testScripts.CreateProductsTest<br>Parameters: product01, Hardware, chethan, 301-Sales-Hardware<br/>
+<a href="#Output-1819897025" onClick='toggleBox("Output-1819897025", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1819897025" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1819897025">
+clicked on products link<br/>
+clicked on create products link<br/>
+product01 <--product is entered into the text field<br/>
+Hardware is selected <br/>
+selected vendor name-->chethan<br/>
+selected gl Account<br/>
+clicked on save button<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>com.Vtiger.testScripts.CreateProductsTest@1677d1</td></tr>
+<tr>
+<td title='com.Vtiger.testScripts.CreatePurchaseOrderTest.createPurchaseOrder()'><b>createPurchaseOrder</b><br>Test class: com.Vtiger.testScripts.CreatePurchaseOrderTest<br>Parameters: sub02, chethan, Approved, billingAdrs02, shippingAdrs02, product01, 1<br/>
+<a href="#Output-1526090976" onClick='toggleBox("Output-1526090976", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1526090976" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1526090976">
+mouse hovered on more link<br/>
+clicked on purchase order link<br/>
+clicked on create purchase order link<br/>
+entered subject--> sub02<br/>
+vendor name selected -->chethan<br/>
+selected status -->Approved<br/>
+entered billinhAddress address<br/>
+entered shippingAddress address<br/>
+clicked on searchIcon<br/>
+switched to child browser<br/>
+product01 entered in search field<br/>
+clicked on search button<br/>
+selected item is -->product01<br/>
+switched to parent browser<br/>
+slected item is -->product01<br/>
+entered qty is -->1<br/>
+clicked on save button<br/>
+</div>
+</td>
+<td></td>
+<td>19</td>
+<td>com.Vtiger.testScripts.CreatePurchaseOrderTest@75329a49</td></tr>
+<tr>
+<td title='com.Vtiger.testScripts.CreateQuotesTest.createQuoteTest()'><b>createQuoteTest</b><br>Test class: com.Vtiger.testScripts.CreateQuotesTest<br>Parameters: QOt01, bvc, BillinhAddress01, ShippingAddress01, laptop, 1<br/>
+<a href="#Output-1268124507" onClick='toggleBox("Output-1268124507", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1268124507" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1268124507">
+mouse hovered on more link<br/>
+clicked on Quotes Link<br/>
+clicked on create quotes link<br/>
+QOt01 <-- entered <br/>
+clicked on organizatio button<br/>
+switched to child browser<br/>
+switched to parent browser<br/>
+selected org name<br/>
+entered billing address<br/>
+entered shipping address<br/>
+selected item -->laptop<br/>
+selected qty -->1<br/>
+clicked on save button<br/>
+</div>
+</td>
+<td></td>
+<td>18</td>
+<td>com.Vtiger.testScripts.CreateQuotesTest@6d2a209c</td></tr>
+<tr>
+<td title='com.Vtiger.testScripts.CreateSalesOrderTest.createSalesOrderTest()'><b>createSalesOrderTest</b><br>Test class: com.Vtiger.testScripts.CreateSalesOrderTest<br>Parameters: salesOrder01, Approved, cust1001, bvc, billingAdrs01, shippingAdrs01, laptop, 1<br/>
+<a href="#Output-1886350630" onClick='toggleBox("Output-1886350630", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1886350630" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1886350630">
+Mouse hovered on more link<br/>
+clicked on sales order link<br/>
+clicked on create sales order link<br/>
+salesOrder01 entered into the subject TF<br/>
+cust1001 entered into the customerno TF<br/>
+bvc is selected <br/>
+entered billing address<br/>
+entered shipping address<br/>
+laptop item is selected<br/>
+1 is selected<br/>
+clicked on save button<br/>
+sales order created successfully<br/>
+</div>
+</td>
+<td></td>
+<td>19</td>
+<td>com.Vtiger.testScripts.CreateSalesOrderTest@4313f5bc</td></tr>
+<tr>
+<td title='com.Vtiger.testScripts.CreateVendorTest.cretaeVendrTest()'><b>cretaeVendrTest</b><br>Test class: com.Vtiger.testScripts.CreateVendorTest<br>Parameters: vendor012, vendor01@mil.com, 456278, www.vendor01.com, street01, city01, postalcode01, pobox01, state01, country01<br/>
+<a href="#Output-1166361824" onClick='toggleBox("Output-1166361824", this, "Show output", "Hide output");'>Show output</a>
+
+<a href="#Output-1166361824" onClick="toggleAllBoxes();">Show all outputs</a>
+<div class='log' id="Output-1166361824">
+mouse hovered on more link<br/>
+clicked on vendor link<br/>
+clicked on creater vendor<br/>
+entered vendor name<br/>
+entered vendored email id<br/>
+entered vendored phone no<br/>
+cliked on save button<br/>
+vendor is created successfully<br/>
+clicked on vendors link-->home page displayed<br/>
+</div>
+</td>
+<td></td>
+<td>14</td>
+<td>com.Vtiger.testScripts.CreateVendorTest@12e61fe6</td></tr>
 </table><p>
 </body>
 </html>

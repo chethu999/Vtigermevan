@@ -3,15 +3,15 @@
 <suite name="Failed suite [Default suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Default test(failed)">
     <classes>
-      <class name="com.Vtiger.testScripts.CreatPurchaseOrder">
+      <class name="com.Vtiger.testScripts.CreatePurchaseOrderTest">
         <methods>
+          <include name="createPurchaseOrder" invocation-numbers="0"/>
           <include name="configBc"/>
-          <include name="CreatePurchaseOrderTest"/>
           <include name="cofigBm"/>
           <include name="configAc"/>
           <include name="configAM"/>
         </methods>
-      </class> <!-- com.Vtiger.testScripts.CreatPurchaseOrder -->
+      </class> <!-- com.Vtiger.testScripts.CreatePurchaseOrderTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

@@ -1,65 +1,1309 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="1" passed="0" failed="1" skipped="0">
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
   <reporter-output>
+    <line>
+      <![CDATA[mouse hovered on more link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on vendor link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on creater vendor]]>
+    </line>
+    <line>
+      <![CDATA[entered vendor name]]>
+    </line>
+    <line>
+      <![CDATA[entered vendored email id]]>
+    </line>
+    <line>
+      <![CDATA[entered vendored phone no]]>
+    </line>
+    <line>
+      <![CDATA[cliked on save button]]>
+    </line>
+    <line>
+      <![CDATA[vendor is created successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on vendors link-->home page displayed]]>
+    </line>
+    <line>
+      <![CDATA[cliked on organization link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on create organization link]]>
+    </line>
+    <line>
+      <![CDATA[organization name is entered]]>
+    </line>
+    <line>
+      <![CDATA[Organization website entered]]>
+    </line>
+    <line>
+      <![CDATA[Entered Employees]]>
+    </line>
+    <line>
+      <![CDATA[clicked on save button]]>
+    </line>
+    <line>
+      <![CDATA[organization created successfully]]>
+    </line>
+    <line>
+      <![CDATA[clicked on organization link link->home page displayed]]>
+    </line>
+    <line>
+      <![CDATA[clicked on products link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on create products link]]>
+    </line>
+    <line>
+      <![CDATA[product01 <--product is entered into the text field]]>
+    </line>
+    <line>
+      <![CDATA[Hardware is selected ]]>
+    </line>
+    <line>
+      <![CDATA[selected vendor name-->chethan]]>
+    </line>
+    <line>
+      <![CDATA[selected gl Account]]>
+    </line>
+    <line>
+      <![CDATA[clicked on save button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on leads link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on create leads link]]>
+    </line>
+    <line>
+      <![CDATA[entered firstname into TF]]>
+    </line>
+    <line>
+      <![CDATA[entered lastname into TF]]>
+    </line>
+    <line>
+      <![CDATA[entered comapny name]]>
+    </line>
+    <line>
+      <![CDATA[selected lead source]]>
+    </line>
+    <line>
+      <![CDATA[selected industry type]]>
+    </line>
+    <line>
+      <![CDATA[entered annualrevenue into TF]]>
+    </line>
+    <line>
+      <![CDATA[entered noofemployees into TF]]>
+    </line>
+    <line>
+      <![CDATA[clicked on save button]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Contact link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on create contact link]]>
+    </line>
+    <line>
+      <![CDATA[entered first name]]>
+    </line>
+    <line>
+      <![CDATA[entered last name]]>
+    </line>
+    <line>
+      <![CDATA[entered email]]>
+    </line>
+    <line>
+      <![CDATA[entered mobile number]]>
+    </line>
+    <line>
+      <![CDATA[clicked on select Organization button]]>
+    </line>
+    <line>
+      <![CDATA[switched to childe browser]]>
+    </line>
+    <line>
+      <![CDATA[selected Organization name]]>
+    </line>
+    <line>
+      <![CDATA[switched back to parent browser]]>
+    </line>
+    <line>
+      <![CDATA[clicked on save button]]>
+    </line>
+    <line>
+      <![CDATA[contact created successfully]]>
+    </line>
+    <line>
+      <![CDATA[Entered on contacts link-->home page displayed]]>
+    </line>
+    <line>
+      <![CDATA[Cliked on Opportunites link]]>
+    </line>
+    <line>
+      <![CDATA[cliked on create opportunity link]]>
+    </line>
+    <line>
+      <![CDATA[entered opportunity name]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Org link]]>
+    </line>
+    <line>
+      <![CDATA[switched to child browser]]>
+    </line>
+    <line>
+      <![CDATA[switched to parent browser]]>
+    </line>
+    <line>
+      <![CDATA[selected Organization name]]>
+    </line>
+    <line>
+      <![CDATA[Existing Business selected from sigle Select drop down]]>
+    </line>
+    <line>
+      <![CDATA[clicked the saved button]]>
+    </line>
+    <line>
+      <![CDATA[mouse hovered on more link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Quotes Link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on create quotes link]]>
+    </line>
+    <line>
+      <![CDATA[QOt01 <-- entered ]]>
+    </line>
+    <line>
+      <![CDATA[clicked on organizatio button]]>
+    </line>
+    <line>
+      <![CDATA[switched to child browser]]>
+    </line>
+    <line>
+      <![CDATA[switched to parent browser]]>
+    </line>
+    <line>
+      <![CDATA[selected org name]]>
+    </line>
+    <line>
+      <![CDATA[entered billing address]]>
+    </line>
+    <line>
+      <![CDATA[entered shipping address]]>
+    </line>
+    <line>
+      <![CDATA[selected item -->laptop]]>
+    </line>
+    <line>
+      <![CDATA[selected qty -->1]]>
+    </line>
+    <line>
+      <![CDATA[clicked on save button]]>
+    </line>
+    <line>
+      <![CDATA[mouse hovered on more link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on purchase order link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on create purchase order link]]>
+    </line>
+    <line>
+      <![CDATA[entered subject--> sub02]]>
+    </line>
+    <line>
+      <![CDATA[vendor name selected -->chethan]]>
+    </line>
+    <line>
+      <![CDATA[selected status -->Approved]]>
+    </line>
+    <line>
+      <![CDATA[entered billinhAddress address]]>
+    </line>
+    <line>
+      <![CDATA[entered shippingAddress address]]>
+    </line>
+    <line>
+      <![CDATA[clicked on searchIcon]]>
+    </line>
+    <line>
+      <![CDATA[switched to child browser]]>
+    </line>
+    <line>
+      <![CDATA[product01 entered in search field]]>
+    </line>
+    <line>
+      <![CDATA[clicked on search button]]>
+    </line>
+    <line>
+      <![CDATA[selected item is -->product01]]>
+    </line>
+    <line>
+      <![CDATA[switched to parent browser]]>
+    </line>
+    <line>
+      <![CDATA[slected item is -->product01]]>
+    </line>
+    <line>
+      <![CDATA[entered qty is -->1]]>
+    </line>
+    <line>
+      <![CDATA[clicked on save button]]>
+    </line>
+    <line>
+      <![CDATA[mouse hovered on more link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on Invoice Link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on create invoice link]]>
+    </line>
+    <line>
+      <![CDATA[subject01 <-- entered ]]>
+    </line>
+    <line>
+      <![CDATA[clicked on contact name]]>
+    </line>
+    <line>
+      <![CDATA[switched to child browser]]>
+    </line>
+    <line>
+      <![CDATA[switched to parent browser]]>
+    </line>
+    <line>
+      <![CDATA[selected contact name]]>
+    </line>
+    <line>
+      <![CDATA[clicked on organization name]]>
+    </line>
+    <line>
+      <![CDATA[switched to child browser]]>
+    </line>
+    <line>
+      <![CDATA[switched to parent browser]]>
+    </line>
+    <line>
+      <![CDATA[selected org name]]>
+    </line>
+    <line>
+      <![CDATA[entered billing address]]>
+    </line>
+    <line>
+      <![CDATA[entered shipping address]]>
+    </line>
+    <line>
+      <![CDATA[clicked on select item]]>
+    </line>
+    <line>
+      <![CDATA[switched to child browser]]>
+    </line>
+    <line>
+      <![CDATA[switched to parent browser]]>
+    </line>
+    <line>
+      <![CDATA[selected item -->laptop]]>
+    </line>
+    <line>
+      <![CDATA[selected qty -->1]]>
+    </line>
+    <line>
+      <![CDATA[clicked on save button]]>
+    </line>
+    <line>
+      <![CDATA[Mouse hovered on more link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on sales order link]]>
+    </line>
+    <line>
+      <![CDATA[clicked on create sales order link]]>
+    </line>
+    <line>
+      <![CDATA[salesOrder01 entered into the subject TF]]>
+    </line>
+    <line>
+      <![CDATA[cust1001 entered into the customerno TF]]>
+    </line>
+    <line>
+      <![CDATA[bvc is selected ]]>
+    </line>
+    <line>
+      <![CDATA[entered billing address]]>
+    </line>
+    <line>
+      <![CDATA[entered shipping address]]>
+    </line>
+    <line>
+      <![CDATA[laptop item is selected]]>
+    </line>
+    <line>
+      <![CDATA[1 is selected]]>
+    </line>
+    <line>
+      <![CDATA[clicked on save button]]>
+    </line>
+    <line>
+      <![CDATA[sales order created successfully]]>
+    </line>
   </reporter-output>
-  <suite started-at="2020-06-06T09:51:40 IST" name="Default suite" finished-at="2020-06-06T09:51:51 IST" duration-ms="11367">
+  <suite started-at="2020-06-13T09:46:56 IST" name="Suite" finished-at="2020-06-13T09:52:07 IST" duration-ms="311171">
     <groups>
     </groups>
-    <test started-at="2020-06-06T09:51:40 IST" name="Default test" finished-at="2020-06-06T09:51:51 IST" duration-ms="11367">
-      <class name="com.Vtiger.testScripts.CreatPurchaseOrder">
-        <test-method is-config="true" signature="configBc()[pri:0, instance:com.Vtiger.testScripts.CreatPurchaseOrder@43301423]" started-at="2020-06-06T09:51:40 IST" name="configBc" finished-at="2020-06-06T09:51:48 IST" duration-ms="8051" status="PASS">
+    <test started-at="2020-06-13T09:46:56 IST" name="Test" finished-at="2020-06-13T09:52:07 IST" duration-ms="311171">
+      <class name="com.Vtiger.testScripts.CreateLeadsTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.Vtiger.testScripts.CreateLeadsTest@48fa0f47]" started-at="2020-06-13T09:48:26 IST" name="configBc" finished-at="2020-06-13T09:48:33 IST" duration-ms="7152" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configBc -->
-        <test-method signature="CreatePurchaseOrderTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Vtiger.testScripts.CreatPurchaseOrder@43301423]" started-at="2020-06-06T09:51:48 IST" name="CreatePurchaseOrderTest" data-provider="giveData" finished-at="2020-06-06T09:51:50 IST" duration-ms="1846" status="FAIL">
-          <exception class="org.testng.internal.reflect.MethodMatcherException">
-            <message>
-              <![CDATA[
-[public void com.Vtiger.testScripts.CreatPurchaseOrder.CreatePurchaseOrderTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
-Data provider mismatch
-Method: CreatePurchaseOrderTest([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=2, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=3, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=4, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=5, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=6, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=7, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=8, type=java.lang.String, declaredAnnotations=[]}])
-Arguments: [(java.lang.String) po_12,(java.lang.String) chethan,(java.lang.String) Delivered,(java.lang.String) User,(java.lang.String) Bangalore,(java.lang.String) Mangalore,(java.lang.String) car,(java.lang.String) 10,(java.lang.String) 100,null,null,null,null,null,null,null,null,null]]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[org.testng.internal.reflect.MethodMatcherException: 
-[public void com.Vtiger.testScripts.CreatPurchaseOrder.CreatePurchaseOrderTest(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)] has no parameters defined but was found to be using a data provider (either explicitly specified or inherited from class level annotation).
-Data provider mismatch
-Method: CreatePurchaseOrderTest([Parameter{index=0, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=1, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=2, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=3, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=4, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=5, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=6, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=7, type=java.lang.String, declaredAnnotations=[]}, Parameter{index=8, type=java.lang.String, declaredAnnotations=[]}])
-Arguments: [(java.lang.String) po_12,(java.lang.String) chethan,(java.lang.String) Delivered,(java.lang.String) User,(java.lang.String) Bangalore,(java.lang.String) Mangalore,(java.lang.String) car,(java.lang.String) 10,(java.lang.String) 100,null,null,null,null,null,null,null,null,null]
-at org.testng.internal.reflect.DataProviderMethodMatcher.getConformingArguments(DataProviderMethodMatcher.java:43)
-at org.testng.internal.Parameters.injectParameters(Parameters.java:905)
-at org.testng.internal.MethodRunner.runInSequence(MethodRunner.java:34)
-at org.testng.internal.TestInvoker$MethodInvocationAgent.invoke(TestInvoker.java:821)
-at org.testng.internal.TestInvoker.invokeTestMethods(TestInvoker.java:147)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:146)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:128)
-at java.base/java.util.ArrayList.forEach(ArrayList.java:1507)
-at org.testng.TestRunner.privateRun(TestRunner.java:767)
-at org.testng.TestRunner.run(TestRunner.java:588)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:384)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:378)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:337)
-at org.testng.SuiteRunner.run(SuiteRunner.java:286)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:53)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:96)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1214)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1136)
-at org.testng.TestNG.runSuites(TestNG.java:1066)
-at org.testng.TestNG.run(TestNG.java:1034)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- org.testng.internal.reflect.MethodMatcherException -->
+        <test-method is-config="true" signature="cofigBm()[pri:0, instance:com.Vtiger.testScripts.CreateLeadsTest@48fa0f47]" started-at="2020-06-13T09:48:33 IST" name="cofigBm" finished-at="2020-06-13T09:48:37 IST" duration-ms="3802" status="PASS">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- CreatePurchaseOrderTest -->
-        <test-method is-config="true" signature="configAc()[pri:0, instance:com.Vtiger.testScripts.CreatPurchaseOrder@43301423]" started-at="2020-06-06T09:51:51 IST" name="configAc" finished-at="2020-06-06T09:51:51 IST" duration-ms="743" status="PASS">
+        </test-method> <!-- cofigBm -->
+        <test-method signature="createLeadTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Vtiger.testScripts.CreateLeadsTest@48fa0f47]" started-at="2020-06-13T09:48:37 IST" name="createLeadTest" data-provider="readData" finished-at="2020-06-13T09:48:50 IST" duration-ms="13070" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[FN01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[LN01]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[cmp01]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Existing Customer]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Banking]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[550000]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[10]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on leads link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on create leads link]]>
+            </line>
+            <line>
+              <![CDATA[entered firstname into TF]]>
+            </line>
+            <line>
+              <![CDATA[entered lastname into TF]]>
+            </line>
+            <line>
+              <![CDATA[entered comapny name]]>
+            </line>
+            <line>
+              <![CDATA[selected lead source]]>
+            </line>
+            <line>
+              <![CDATA[selected industry type]]>
+            </line>
+            <line>
+              <![CDATA[entered annualrevenue into TF]]>
+            </line>
+            <line>
+              <![CDATA[entered noofemployees into TF]]>
+            </line>
+            <line>
+              <![CDATA[clicked on save button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createLeadTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Vtiger.testScripts.CreateLeadsTest@48fa0f47]" started-at="2020-06-13T09:48:50 IST" name="configAM" finished-at="2020-06-13T09:48:53 IST" duration-ms="2274" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:com.Vtiger.testScripts.CreateLeadsTest@48fa0f47]" started-at="2020-06-13T09:48:53 IST" name="configAc" finished-at="2020-06-13T09:48:53 IST" duration-ms="771" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- configAc -->
-      </class> <!-- com.Vtiger.testScripts.CreatPurchaseOrder -->
-    </test> <!-- Default test -->
-  </suite> <!-- Default suite -->
+      </class> <!-- com.Vtiger.testScripts.CreateLeadsTest -->
+      <class name="com.Vtiger.testScripts.CreateQuotesTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.Vtiger.testScripts.CreateQuotesTest@6d2a209c]" started-at="2020-06-13T09:49:51 IST" name="configBc" finished-at="2020-06-13T09:49:59 IST" duration-ms="7037" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="cofigBm()[pri:0, instance:com.Vtiger.testScripts.CreateQuotesTest@6d2a209c]" started-at="2020-06-13T09:49:59 IST" name="cofigBm" finished-at="2020-06-13T09:50:03 IST" duration-ms="4669" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBm -->
+        <test-method signature="createQuoteTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Vtiger.testScripts.CreateQuotesTest@6d2a209c]" started-at="2020-06-13T09:50:03 IST" name="createQuoteTest" data-provider="readData" finished-at="2020-06-13T09:50:22 IST" duration-ms="18352" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[QOt01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bvc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[BillinhAddress01]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[ShippingAddress01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[laptop]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[mouse hovered on more link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Quotes Link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on create quotes link]]>
+            </line>
+            <line>
+              <![CDATA[QOt01 <-- entered ]]>
+            </line>
+            <line>
+              <![CDATA[clicked on organizatio button]]>
+            </line>
+            <line>
+              <![CDATA[switched to child browser]]>
+            </line>
+            <line>
+              <![CDATA[switched to parent browser]]>
+            </line>
+            <line>
+              <![CDATA[selected org name]]>
+            </line>
+            <line>
+              <![CDATA[entered billing address]]>
+            </line>
+            <line>
+              <![CDATA[entered shipping address]]>
+            </line>
+            <line>
+              <![CDATA[selected item -->laptop]]>
+            </line>
+            <line>
+              <![CDATA[selected qty -->1]]>
+            </line>
+            <line>
+              <![CDATA[clicked on save button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createQuoteTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Vtiger.testScripts.CreateQuotesTest@6d2a209c]" started-at="2020-06-13T09:50:22 IST" name="configAM" finished-at="2020-06-13T09:50:24 IST" duration-ms="2168" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:com.Vtiger.testScripts.CreateQuotesTest@6d2a209c]" started-at="2020-06-13T09:50:24 IST" name="configAc" finished-at="2020-06-13T09:50:25 IST" duration-ms="783" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.Vtiger.testScripts.CreateQuotesTest -->
+      <class name="com.Vtiger.testScripts.CreateOrganizationTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.Vtiger.testScripts.CreateOrganizationTest@7ee955a8]" started-at="2020-06-13T09:47:27 IST" name="configBc" finished-at="2020-06-13T09:47:34 IST" duration-ms="6671" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="cofigBm()[pri:0, instance:com.Vtiger.testScripts.CreateOrganizationTest@7ee955a8]" started-at="2020-06-13T09:47:34 IST" name="cofigBm" finished-at="2020-06-13T09:47:38 IST" duration-ms="3710" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBm -->
+        <test-method signature="createOrgTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Vtiger.testScripts.CreateOrganizationTest@7ee955a8]" started-at="2020-06-13T09:47:38 IST" name="createOrgTest" data-provider="readData" finished-at="2020-06-13T09:47:54 IST" duration-ms="16165" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Org_12557]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[www.org_125.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[60]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Banking]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Press]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[User]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[8524163480]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[org_125@mail.com]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[10000]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[Bangaluru]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[cliked on organization link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on create organization link]]>
+            </line>
+            <line>
+              <![CDATA[organization name is entered]]>
+            </line>
+            <line>
+              <![CDATA[Organization website entered]]>
+            </line>
+            <line>
+              <![CDATA[Entered Employees]]>
+            </line>
+            <line>
+              <![CDATA[clicked on save button]]>
+            </line>
+            <line>
+              <![CDATA[organization created successfully]]>
+            </line>
+            <line>
+              <![CDATA[clicked on organization link link->home page displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOrgTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Vtiger.testScripts.CreateOrganizationTest@7ee955a8]" started-at="2020-06-13T09:47:54 IST" name="configAM" finished-at="2020-06-13T09:47:56 IST" duration-ms="2086" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:com.Vtiger.testScripts.CreateOrganizationTest@7ee955a8]" started-at="2020-06-13T09:47:56 IST" name="configAc" finished-at="2020-06-13T09:47:57 IST" duration-ms="759" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.Vtiger.testScripts.CreateOrganizationTest -->
+      <class name="com.Vtiger.testScripts.CreateProductsTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.Vtiger.testScripts.CreateProductsTest@1677d1]" started-at="2020-06-13T09:47:57 IST" name="configBc" finished-at="2020-06-13T09:48:04 IST" duration-ms="7115" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="cofigBm()[pri:0, instance:com.Vtiger.testScripts.CreateProductsTest@1677d1]" started-at="2020-06-13T09:48:04 IST" name="cofigBm" finished-at="2020-06-13T09:48:08 IST" duration-ms="4156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBm -->
+        <test-method signature="createProductTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Vtiger.testScripts.CreateProductsTest@1677d1]" started-at="2020-06-13T09:48:08 IST" name="createProductTest" data-provider="readData" finished-at="2020-06-13T09:48:23 IST" duration-ms="14940" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[product01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Hardware]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[chethan]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[301-Sales-Hardware]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on products link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on create products link]]>
+            </line>
+            <line>
+              <![CDATA[product01 <--product is entered into the text field]]>
+            </line>
+            <line>
+              <![CDATA[Hardware is selected ]]>
+            </line>
+            <line>
+              <![CDATA[selected vendor name-->chethan]]>
+            </line>
+            <line>
+              <![CDATA[selected gl Account]]>
+            </line>
+            <line>
+              <![CDATA[clicked on save button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createProductTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Vtiger.testScripts.CreateProductsTest@1677d1]" started-at="2020-06-13T09:48:23 IST" name="configAM" finished-at="2020-06-13T09:48:25 IST" duration-ms="2119" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:com.Vtiger.testScripts.CreateProductsTest@1677d1]" started-at="2020-06-13T09:48:25 IST" name="configAc" finished-at="2020-06-13T09:48:26 IST" duration-ms="751" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.Vtiger.testScripts.CreateProductsTest -->
+      <class name="com.Vtiger.testScripts.CreatePurchaseOrderTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.Vtiger.testScripts.CreatePurchaseOrderTest@75329a49]" started-at="2020-06-13T09:50:25 IST" name="configBc" finished-at="2020-06-13T09:50:31 IST" duration-ms="6770" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="cofigBm()[pri:0, instance:com.Vtiger.testScripts.CreatePurchaseOrderTest@75329a49]" started-at="2020-06-13T09:50:32 IST" name="cofigBm" finished-at="2020-06-13T09:50:36 IST" duration-ms="4346" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBm -->
+        <test-method signature="createPurchaseOrder(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Vtiger.testScripts.CreatePurchaseOrderTest@75329a49]" started-at="2020-06-13T09:50:36 IST" name="createPurchaseOrder" data-provider="readData" finished-at="2020-06-13T09:50:56 IST" duration-ms="19663" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[sub02]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[chethan]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Approved]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[billingAdrs02]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[shippingAdrs02]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[product01]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[mouse hovered on more link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on purchase order link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on create purchase order link]]>
+            </line>
+            <line>
+              <![CDATA[entered subject--> sub02]]>
+            </line>
+            <line>
+              <![CDATA[vendor name selected -->chethan]]>
+            </line>
+            <line>
+              <![CDATA[selected status -->Approved]]>
+            </line>
+            <line>
+              <![CDATA[entered billinhAddress address]]>
+            </line>
+            <line>
+              <![CDATA[entered shippingAddress address]]>
+            </line>
+            <line>
+              <![CDATA[clicked on searchIcon]]>
+            </line>
+            <line>
+              <![CDATA[switched to child browser]]>
+            </line>
+            <line>
+              <![CDATA[product01 entered in search field]]>
+            </line>
+            <line>
+              <![CDATA[clicked on search button]]>
+            </line>
+            <line>
+              <![CDATA[selected item is -->product01]]>
+            </line>
+            <line>
+              <![CDATA[switched to parent browser]]>
+            </line>
+            <line>
+              <![CDATA[slected item is -->product01]]>
+            </line>
+            <line>
+              <![CDATA[entered qty is -->1]]>
+            </line>
+            <line>
+              <![CDATA[clicked on save button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createPurchaseOrder -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Vtiger.testScripts.CreatePurchaseOrderTest@75329a49]" started-at="2020-06-13T09:50:56 IST" name="configAM" finished-at="2020-06-13T09:50:58 IST" duration-ms="1991" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:com.Vtiger.testScripts.CreatePurchaseOrderTest@75329a49]" started-at="2020-06-13T09:50:58 IST" name="configAc" finished-at="2020-06-13T09:50:58 IST" duration-ms="762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.Vtiger.testScripts.CreatePurchaseOrderTest -->
+      <class name="com.Vtiger.testScripts.CreateContactsTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.Vtiger.testScripts.CreateContactsTest@6ac13091]" started-at="2020-06-13T09:48:53 IST" name="configBc" finished-at="2020-06-13T09:49:00 IST" duration-ms="6678" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="cofigBm()[pri:0, instance:com.Vtiger.testScripts.CreateContactsTest@6ac13091]" started-at="2020-06-13T09:49:00 IST" name="cofigBm" finished-at="2020-06-13T09:49:04 IST" duration-ms="3834" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBm -->
+        <test-method signature="createContTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Vtiger.testScripts.CreateContactsTest@6ac13091]" started-at="2020-06-13T09:49:04 IST" name="createContTest" data-provider="readData" finished-at="2020-06-13T09:49:20 IST" duration-ms="16363" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[F111]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[sham]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bvc]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[sham@mail.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[756641332]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[clicked on Contact link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on create contact link]]>
+            </line>
+            <line>
+              <![CDATA[entered first name]]>
+            </line>
+            <line>
+              <![CDATA[entered last name]]>
+            </line>
+            <line>
+              <![CDATA[entered email]]>
+            </line>
+            <line>
+              <![CDATA[entered mobile number]]>
+            </line>
+            <line>
+              <![CDATA[clicked on select Organization button]]>
+            </line>
+            <line>
+              <![CDATA[switched to childe browser]]>
+            </line>
+            <line>
+              <![CDATA[selected Organization name]]>
+            </line>
+            <line>
+              <![CDATA[switched back to parent browser]]>
+            </line>
+            <line>
+              <![CDATA[clicked on save button]]>
+            </line>
+            <line>
+              <![CDATA[contact created successfully]]>
+            </line>
+            <line>
+              <![CDATA[Entered on contacts link-->home page displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createContTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Vtiger.testScripts.CreateContactsTest@6ac13091]" started-at="2020-06-13T09:49:20 IST" name="configAM" finished-at="2020-06-13T09:49:22 IST" duration-ms="1989" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:com.Vtiger.testScripts.CreateContactsTest@6ac13091]" started-at="2020-06-13T09:49:22 IST" name="configAc" finished-at="2020-06-13T09:49:23 IST" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.Vtiger.testScripts.CreateContactsTest -->
+      <class name="com.Vtiger.testScripts.CreateOpportunitiesTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.Vtiger.testScripts.CreateOpportunitiesTest@5e316c74]" started-at="2020-06-13T09:49:23 IST" name="configBc" finished-at="2020-06-13T09:49:30 IST" duration-ms="7024" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="cofigBm()[pri:0, instance:com.Vtiger.testScripts.CreateOpportunitiesTest@5e316c74]" started-at="2020-06-13T09:49:30 IST" name="cofigBm" finished-at="2020-06-13T09:49:34 IST" duration-ms="4253" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBm -->
+        <test-method signature="createOpportuninyTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Vtiger.testScripts.CreateOpportunitiesTest@5e316c74]" started-at="2020-06-13T09:49:34 IST" name="createOpportuninyTest" data-provider="readData" finished-at="2020-06-13T09:49:49 IST" duration-ms="14071" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[opprt01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[bvc]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[Existing Business]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[Cold Call]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[Prospecting]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[45]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Cliked on Opportunites link]]>
+            </line>
+            <line>
+              <![CDATA[cliked on create opportunity link]]>
+            </line>
+            <line>
+              <![CDATA[entered opportunity name]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Org link]]>
+            </line>
+            <line>
+              <![CDATA[switched to child browser]]>
+            </line>
+            <line>
+              <![CDATA[switched to parent browser]]>
+            </line>
+            <line>
+              <![CDATA[selected Organization name]]>
+            </line>
+            <line>
+              <![CDATA[Existing Business selected from sigle Select drop down]]>
+            </line>
+            <line>
+              <![CDATA[clicked the saved button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createOpportuninyTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Vtiger.testScripts.CreateOpportunitiesTest@5e316c74]" started-at="2020-06-13T09:49:49 IST" name="configAM" finished-at="2020-06-13T09:49:51 IST" duration-ms="2161" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:com.Vtiger.testScripts.CreateOpportunitiesTest@5e316c74]" started-at="2020-06-13T09:49:51 IST" name="configAc" finished-at="2020-06-13T09:49:51 IST" duration-ms="758" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.Vtiger.testScripts.CreateOpportunitiesTest -->
+      <class name="com.Vtiger.testScripts.CreateInvoiceTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.Vtiger.testScripts.CreateInvoiceTest@161479c6]" started-at="2020-06-13T09:50:58 IST" name="configBc" finished-at="2020-06-13T09:51:05 IST" duration-ms="6690" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="cofigBm()[pri:0, instance:com.Vtiger.testScripts.CreateInvoiceTest@161479c6]" started-at="2020-06-13T09:51:05 IST" name="cofigBm" finished-at="2020-06-13T09:51:09 IST" duration-ms="4215" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBm -->
+        <test-method signature="createInvoiceTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Vtiger.testScripts.CreateInvoiceTest@161479c6]" started-at="2020-06-13T09:51:09 IST" name="createInvoiceTest" data-provider="readData" finished-at="2020-06-13T09:51:31 IST" duration-ms="21529" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[subject01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Chethan poojary]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[bvc]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[BillinhAddress01]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[ShippingAddress01]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[laptop]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[mouse hovered on more link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on Invoice Link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on create invoice link]]>
+            </line>
+            <line>
+              <![CDATA[subject01 <-- entered ]]>
+            </line>
+            <line>
+              <![CDATA[clicked on contact name]]>
+            </line>
+            <line>
+              <![CDATA[switched to child browser]]>
+            </line>
+            <line>
+              <![CDATA[switched to parent browser]]>
+            </line>
+            <line>
+              <![CDATA[selected contact name]]>
+            </line>
+            <line>
+              <![CDATA[clicked on organization name]]>
+            </line>
+            <line>
+              <![CDATA[switched to child browser]]>
+            </line>
+            <line>
+              <![CDATA[switched to parent browser]]>
+            </line>
+            <line>
+              <![CDATA[selected org name]]>
+            </line>
+            <line>
+              <![CDATA[entered billing address]]>
+            </line>
+            <line>
+              <![CDATA[entered shipping address]]>
+            </line>
+            <line>
+              <![CDATA[clicked on select item]]>
+            </line>
+            <line>
+              <![CDATA[switched to child browser]]>
+            </line>
+            <line>
+              <![CDATA[switched to parent browser]]>
+            </line>
+            <line>
+              <![CDATA[selected item -->laptop]]>
+            </line>
+            <line>
+              <![CDATA[selected qty -->1]]>
+            </line>
+            <line>
+              <![CDATA[clicked on save button]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createInvoiceTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Vtiger.testScripts.CreateInvoiceTest@161479c6]" started-at="2020-06-13T09:51:31 IST" name="configAM" finished-at="2020-06-13T09:51:33 IST" duration-ms="2183" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:com.Vtiger.testScripts.CreateInvoiceTest@161479c6]" started-at="2020-06-13T09:51:33 IST" name="configAc" finished-at="2020-06-13T09:51:34 IST" duration-ms="748" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.Vtiger.testScripts.CreateInvoiceTest -->
+      <class name="com.Vtiger.testScripts.CreateVendorTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.Vtiger.testScripts.CreateVendorTest@12e61fe6]" started-at="2020-06-13T09:46:56 IST" name="configBc" finished-at="2020-06-13T09:47:03 IST" duration-ms="7436" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="cofigBm()[pri:0, instance:com.Vtiger.testScripts.CreateVendorTest@12e61fe6]" started-at="2020-06-13T09:47:05 IST" name="cofigBm" finished-at="2020-06-13T09:47:10 IST" duration-ms="4859" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBm -->
+        <test-method signature="cretaeVendrTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Vtiger.testScripts.CreateVendorTest@12e61fe6]" started-at="2020-06-13T09:47:10 IST" name="cretaeVendrTest" data-provider="readData" finished-at="2020-06-13T09:47:24 IST" duration-ms="14660" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[vendor012]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[vendor01@mil.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[456278]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[www.vendor01.com]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[street01]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[city01]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[postalcode01]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[pobox01]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[state01]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[country01]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[mouse hovered on more link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on vendor link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on creater vendor]]>
+            </line>
+            <line>
+              <![CDATA[entered vendor name]]>
+            </line>
+            <line>
+              <![CDATA[entered vendored email id]]>
+            </line>
+            <line>
+              <![CDATA[entered vendored phone no]]>
+            </line>
+            <line>
+              <![CDATA[cliked on save button]]>
+            </line>
+            <line>
+              <![CDATA[vendor is created successfully]]>
+            </line>
+            <line>
+              <![CDATA[clicked on vendors link-->home page displayed]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- cretaeVendrTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Vtiger.testScripts.CreateVendorTest@12e61fe6]" started-at="2020-06-13T09:47:24 IST" name="configAM" finished-at="2020-06-13T09:47:26 IST" duration-ms="2167" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:com.Vtiger.testScripts.CreateVendorTest@12e61fe6]" started-at="2020-06-13T09:47:26 IST" name="configAc" finished-at="2020-06-13T09:47:27 IST" duration-ms="753" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.Vtiger.testScripts.CreateVendorTest -->
+      <class name="com.Vtiger.testScripts.CreateSalesOrderTest">
+        <test-method is-config="true" signature="configBc()[pri:0, instance:com.Vtiger.testScripts.CreateSalesOrderTest@4313f5bc]" started-at="2020-06-13T09:51:34 IST" name="configBc" finished-at="2020-06-13T09:51:40 IST" duration-ms="6617" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configBc -->
+        <test-method is-config="true" signature="cofigBm()[pri:0, instance:com.Vtiger.testScripts.CreateSalesOrderTest@4313f5bc]" started-at="2020-06-13T09:51:41 IST" name="cofigBm" finished-at="2020-06-13T09:51:44 IST" duration-ms="3909" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cofigBm -->
+        <test-method signature="createSalesOrderTest(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.Vtiger.testScripts.CreateSalesOrderTest@4313f5bc]" started-at="2020-06-13T09:51:44 IST" name="createSalesOrderTest" data-provider="readData" finished-at="2020-06-13T09:52:04 IST" duration-ms="19710" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[salesOrder01]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[Approved]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[cust1001]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[bvc]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[billingAdrs01]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[shippingAdrs01]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[laptop]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+            <line>
+              <![CDATA[Mouse hovered on more link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on sales order link]]>
+            </line>
+            <line>
+              <![CDATA[clicked on create sales order link]]>
+            </line>
+            <line>
+              <![CDATA[salesOrder01 entered into the subject TF]]>
+            </line>
+            <line>
+              <![CDATA[cust1001 entered into the customerno TF]]>
+            </line>
+            <line>
+              <![CDATA[bvc is selected ]]>
+            </line>
+            <line>
+              <![CDATA[entered billing address]]>
+            </line>
+            <line>
+              <![CDATA[entered shipping address]]>
+            </line>
+            <line>
+              <![CDATA[laptop item is selected]]>
+            </line>
+            <line>
+              <![CDATA[1 is selected]]>
+            </line>
+            <line>
+              <![CDATA[clicked on save button]]>
+            </line>
+            <line>
+              <![CDATA[sales order created successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- createSalesOrderTest -->
+        <test-method is-config="true" signature="configAM()[pri:0, instance:com.Vtiger.testScripts.CreateSalesOrderTest@4313f5bc]" started-at="2020-06-13T09:52:04 IST" name="configAM" finished-at="2020-06-13T09:52:06 IST" duration-ms="2129" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAM -->
+        <test-method is-config="true" signature="configAc()[pri:0, instance:com.Vtiger.testScripts.CreateSalesOrderTest@4313f5bc]" started-at="2020-06-13T09:52:06 IST" name="configAc" finished-at="2020-06-13T09:52:07 IST" duration-ms="780" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- configAc -->
+      </class> <!-- com.Vtiger.testScripts.CreateSalesOrderTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
 </testng-results>

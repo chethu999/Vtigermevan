@@ -5,34 +5,38 @@ import org.openqa.selenium.support.FindBy;
 
 public class Login 
 {
-	@FindBy(name="user_name")
+	@FindBy(name = "user_name")
 	private WebElement userNameTF;
 	
-	@FindBy(name="user_password")
+	@FindBy(name = "user_password")
 	private WebElement passwordTF;
 	
-	@FindBy(id="submitButton")
-	private WebElement loginBtn;
-
-	public WebElement getUserNameTF() {
+	@FindBy(id = "submitButton")
+	private WebElement submitButton;
+	
+	
+	//getter methods
+	public WebElement getUserName()
+	{
 		return userNameTF;
 	}
-
-	public WebElement getPasswordTF() {
+	
+	public WebElement getUserPassword()
+	{
 		return passwordTF;
 	}
-
-	public WebElement getLoginBtn() {
-		return loginBtn;
-	}
 	
-	
-
-	public void login(String username, String password)
+	public WebElement getSubmitButton()
 	{
-		userNameTF.sendKeys(username);
-		passwordTF.sendKeys(password);
-		loginBtn.click();
-		
+		return submitButton;
 	}
+	
+	//Business logic
+	public void login(String userName, String password)
+	{
+		userNameTF.sendKeys(userName);
+		passwordTF.sendKeys(password);
+		submitButton.click();
+	}
+	
 }

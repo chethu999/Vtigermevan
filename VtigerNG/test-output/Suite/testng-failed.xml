@@ -3,15 +3,60 @@
 <suite name="Failed suite [Suite]" guice-stage="DEVELOPMENT">
   <test thread-count="5" name="Test(failed)">
     <classes>
-      <class name="com.Vtiger.testScripts.CreateOrganistion">
+      <class name="com.Vtiger.testScripts.CreatePurchaseOrderTest">
         <methods>
+          <include name="createPurchaseOrder" invocation-numbers="0"/>
           <include name="configBc"/>
           <include name="cofigBm"/>
-          <include name="createorganationTest"/>
           <include name="configAc"/>
           <include name="configAM"/>
         </methods>
-      </class> <!-- com.Vtiger.testScripts.CreateOrganistion -->
+      </class> <!-- com.Vtiger.testScripts.CreatePurchaseOrderTest -->
+      <class name="com.Vtiger.testScripts.CreateOpportunitiesTest">
+        <methods>
+          <include name="configBc"/>
+          <include name="createOpportuninyTest" invocation-numbers="0"/>
+          <include name="cofigBm"/>
+          <include name="configAc"/>
+          <include name="configAM"/>
+        </methods>
+      </class> <!-- com.Vtiger.testScripts.CreateOpportunitiesTest -->
+      <class name="com.Vtiger.testScripts.CreateInvoiceTest">
+        <methods>
+          <include name="configBc"/>
+          <include name="createInvoiceTest" invocation-numbers="0"/>
+          <include name="cofigBm"/>
+          <include name="configAc"/>
+          <include name="configAM"/>
+        </methods>
+      </class> <!-- com.Vtiger.testScripts.CreateInvoiceTest -->
+      <class name="com.Vtiger.testScripts.CreateQuotesTest">
+        <methods>
+          <include name="configBc"/>
+          <include name="cofigBm"/>
+          <include name="configAc"/>
+          <include name="createQuoteTest" invocation-numbers="0"/>
+          <include name="configAM"/>
+        </methods>
+      </class> <!-- com.Vtiger.testScripts.CreateQuotesTest -->
+      <class name="com.Vtiger.testScripts.CreateContactsTest">
+        <methods>
+          <include name="configBc"/>
+          <include name="cofigBm"/>
+          <include name="configAc"/>
+          <include name="configAM"/>
+          <include name="createContTest" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.Vtiger.testScripts.CreateContactsTest -->
+      <class name="com.Vtiger.testScripts.CreateSalesOrderTest">
+        <methods>
+          <include name="createSalesOrderTest" invocation-numbers="0"/>
+          <include name="configBc"/>
+          <include name="cofigBm"/>
+          <include name="configAc"/>
+          <include name="configAM"/>
+        </methods>
+      </class> <!-- com.Vtiger.testScripts.CreateSalesOrderTest -->
     </classes>
   </test> <!-- Test(failed) -->
 </suite> <!-- Failed suite [Suite] -->
